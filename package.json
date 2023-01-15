@@ -1,0 +1,17 @@
+{
+    "version": "0.0.1",
+    "name": "shadowcard",
+    "author": "jianghaosu@gmail.com",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc"
+    },
+    "peerDependencies": {
+        "react": "18.2.0"
+    },
+    "devDependencies": {
+        "typescript": "4.9.4",
+        "react": "18.2.0",
+        "@types/react": "18.0.26"
+    }
+}
